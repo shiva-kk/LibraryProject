@@ -1,5 +1,5 @@
 import unittest
-
+import sys
 from library.audio_cd import AudioCD
 
 class TestAudioCD(unittest.TestCase):
